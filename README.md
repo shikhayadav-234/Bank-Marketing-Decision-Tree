@@ -1,4 +1,4 @@
-# 🤖 PRODIGY_DS_03 – Decision Tree Classifier with Bank Marketing Dataset
+# 🤖  Decision Tree Classifier with Bank Marketing Dataset
 
 ## 🎯 Task Objective:
 Build and visualize a Decision Tree Classifier using the **Bank Marketing Dataset** to predict whether a client will subscribe to a term deposit.
@@ -38,10 +38,4 @@ Build and visualize a Decision Tree Classifier using the **Bank Marketing Datase
 - Prediction success/failure visualized via chart
 
 ---
-
-## 🙏 Thanks to:
-**Prodigy Infotech** for this opportunity to explore machine learning integration in **Power BI**.
-
----
-
-**#MachineLearning #DecisionTree #PowerBI #BankMarketing #DataScience #Python #ProdigyInfotech**
+**#MachineLearning #DecisionTree #PowerBI #BankMarketing #DataScience #Python
